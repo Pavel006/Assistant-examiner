@@ -1,0 +1,96 @@
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\bin\Debug\Ghj.exe.config
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\bin\Debug\Ghj.exe
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\bin\Debug\Ghj.pdb
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.csprojAssemblyReference.cache
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.exe
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.pdb
+C:\Users\TEMP.MARSTU.020\Source\Repos\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.exe.config
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.exe
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\bin\Debug\Ghj.pdb
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csproj.AssemblyReference.cache
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.exe
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.pdb
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\bin\Debug\Ghj.exe.config
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\bin\Debug\Ghj.exe
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\bin\Debug\Ghj.pdb
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.csprojAssemblyReference.cache
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.exe
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.pdb
+C:\Users\TEMP.MARSTU.009\Desktop\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+C:\Users\79877\OneDrive\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+F:\Ghj\Ghj\bin\Debug\Ghj.exe.config
+F:\Ghj\Ghj\bin\Debug\Ghj.exe
+F:\Ghj\Ghj\bin\Debug\Ghj.pdb
+F:\Ghj\Ghj\obj\Debug\Ghj.csprojResolveAssemblyReference.cache
+F:\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+F:\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.Cache
+F:\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+F:\Ghj\Ghj\obj\Debug\Ghj.exe
+F:\Ghj\Ghj\obj\Debug\Ghj.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303237\Рабочий стол\Ghj\Ghj\obj\Debug\Ghj.csprojResolveAssemblyReference.cache
+D:\Ghj\Ghj\obj\Debug\Ghj.csproj.AssemblyReference.cache
+D:\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+D:\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+D:\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+D:\Ghj\Ghj\obj\Debug\Ghj.exe
+D:\Ghj\Ghj\obj\Debug\Ghj.pdb
+D:\Ghj\Ghj\bin\Debug\Ghj.exe.config
+D:\Ghj\Ghj\bin\Debug\Ghj.exe
+D:\Ghj\Ghj\bin\Debug\Ghj.pdb
+E:\Ghj\Ghj\bin\Debug\Ghj.exe.config
+E:\Ghj\Ghj\bin\Debug\Ghj.exe
+E:\Ghj\Ghj\bin\Debug\Ghj.pdb
+E:\Ghj\Ghj\obj\Debug\Ghj.csprojAssemblyReference.cache
+E:\Ghj\Ghj\obj\Debug\Ghj.Login.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_test.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.Passing_the_trening_test.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.Properties.Resources.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.Registration.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.Test.resources
+E:\Ghj\Ghj\obj\Debug\Ghj.csproj.GenerateResource.cache
+E:\Ghj\Ghj\obj\Debug\Ghj.csproj.CoreCompileInputs.cache
+E:\Ghj\Ghj\obj\Debug\Ghj.exe
+E:\Ghj\Ghj\obj\Debug\Ghj.pdb
